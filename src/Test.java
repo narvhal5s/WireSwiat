@@ -11,6 +11,7 @@ public class Test {
         Board gramy = new Board(user_config.getHeight(),user_config.getWidth());
         gramy.loadBoard(user_config.getLoad_detail());
         new Drawing( gramy );
+
     }
 }
 
