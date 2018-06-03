@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="testy_okien:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testy_okien_jar</output-path>
+    <root id="archive" name="testy_okien.jar">
+      <element id="module-output" name="testy_okien" />
+    </root>
+  </artifact>
+</component>
